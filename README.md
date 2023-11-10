@@ -1,2 +1,2 @@
 # DSA
-DSA practise questions 3
+DSA practise questions
